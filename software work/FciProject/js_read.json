@@ -1,0 +1,42 @@
+[
+    {
+        "Poles_number" : "1",
+        "line1volt" : "150",
+        "line2volt" : "190",
+        "line3volt" : "80",
+        "led_status" : "1",
+        "light_degree" : "0"
+    },
+   {
+        "poles_number": "2",
+        "line1volt" : "67",
+        "line2volt" : "60",
+        "line3volt" : "75",
+        "led_status" : "0",
+        "light_degree" : "50"
+    },
+    {
+        "Poles_number": "3",
+        "line1volt" : "83",
+        "line2volt" : "60",
+        "line3volt" : "75",
+        "led_status" : "0",
+        "light_degree" : "70"
+    },
+    {
+        "Poles_number": "4",
+        "line1volt" : "90",
+        "line2volt" : "60",
+        "line3volt" : "75",
+        "led_status" : "1",
+        "light_degree" : "70"
+    },
+    { 
+        "Poles_number": "5",
+        "line1volt" : "100",
+        "line2volt" : "80",
+        "line3volt" : "85",
+        "led_status" : "1",
+        "light_degree" : "19"
+    }
+]
